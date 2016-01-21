@@ -11,5 +11,3 @@ I have just transform it to be managed with maven instead of gradle.
 
 
 
-
-
